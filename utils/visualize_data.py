@@ -21,7 +21,7 @@ def visualize_db(X, y):
         plt.subplot(2, 5, i + 1)
         img = X0[i0[i]][0].reshape(28, 28)
         plt.imshow(img, cmap='gray')
-        plt.title("1")
+        plt.title("0")
         plt.axis('off')
     for i in range(5):
         plt.subplot(2, 5, i + 6)
