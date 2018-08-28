@@ -1,7 +1,7 @@
 # SVM-with-hand-designed-feature
 ![introduction](https://github.com/liubai01/SVM-with-hand-designed-feature/blob/master/img/f1.bmp)
 
-A interactive case study/tutorial of SVM with hand-designed feature in Chinese. It is also released on my [blog(Chinese)](https://blog.csdn.net/liubai01/article/details/82119462). THe english version is on schedule and will be released soon. This tutorial will help you get into the process of feature design in a classical machine learning process.
+An interactive case study/tutorial of [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)(support vector machine) with hand-designed feature in Chinese. It is also released on my [blog(Chinese)](https://blog.csdn.net/liubai01/article/details/82119462). THe english version is on schedule and will be released soon. This tutorial will help you get into the process of feature design in a classical machine learning process.
 
 ### Prerequisite
 
